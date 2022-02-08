@@ -7,4 +7,4 @@ javascript:fetch(`https://res.cloudinary.com/flushed/raw/upload/v${Math.floor(Ma
 ```
 This autoupdates when I add new commits to the main.js!
 <br>
-If the bookmarklet does **not work** due to filters, use bookmarklet.txt below!
+If the bookmarklet does **not work** due to **filters**, use [bookmarklet.txt](https://example.com)
