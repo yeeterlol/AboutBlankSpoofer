@@ -1,4 +1,4 @@
-# AboutBlankSpoofer
+# About:Blank Spoofer
 Spoof webpage as about:blank for unblocking websites
 > Bypasses teacher-block, **NOT ADMIN BLOCK**
 # Bookmarklet
