@@ -1,5 +1,5 @@
 # About:Blank Spoofer
-A JavaScript bookmarklet that uses about:blank to spoof webpages, can unblock websites and GoGuardian's teacher block
+A javascript bookmarklet which allows you to bypass school filters (GoGuardian's teacher block)
 > Bypasses GoGuardian's teacher-block, **NOT ADMIN BLOCK**
 # Bookmarklet
 ```javascript
