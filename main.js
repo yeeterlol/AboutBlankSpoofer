@@ -1,5 +1,5 @@
 // about:blank spoofer
-// made by github.com/yeeterlol & github.com/fmkash
+// made by github.com/yeeterlol
 (function() {
     let url = prompt("about:blank Spoofer | Spoof a wesbite with 'about:blank' with this tool \nPLEASE INCLUDE 'https://' WITH YOUR LINK.");    
     var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
